@@ -3,7 +3,7 @@ pipeline {
 
     environment {
         AWS_REGION = "us-east-1"
-        ECR_REPO = "user-service"
+        ECR_REPO = "order-service"
         ECS_CLUSTER = "dev_cluster"
         ECS_SERVICE = "orderservice-task-service-c4t15kav"
         IMAGE_TAG = "${BUILD_NUMBER}"
