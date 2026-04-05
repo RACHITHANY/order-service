@@ -1,4 +1,3 @@
-Db.js:
 const mysql = require('mysql2');
 require('dotenv').config();   // optional, but good practice
 
