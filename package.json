@@ -1,4 +1,4 @@
-{
+package.json -   {
   "name": "order-service",
   "version": "1.0.0",
   "description": "Order Service for ECS",
